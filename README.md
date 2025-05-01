@@ -74,7 +74,7 @@ To build tech that’s intelligent, scalable, and truly helpful. Whether it’s 
 ### 🔗 Connect With Me
 
 - 🌍 [Portfolio](https://inzu-11.framer.website/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/inzamamul-haque/)  
+- 💼 [LinkedIn](https://linkedin.com/in/inzamamulhaque0)  
 - 📧 ihaque3040@gmail.com  
 
 ---
