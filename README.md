@@ -23,10 +23,9 @@ To build tech that’s intelligent, scalable, and truly helpful. Whether it’s 
 ### 💼 What I Do
 
 - 🛠 Full Stack Development — Fast, scalable, clean web apps  
-- 🧠 AI/ML — Vision models, NLP, AI assistants  
 - ☁️ Cloud Ops — Render, Vercel, Firebase, GitHub Actions  
 - 🔍 DSA — Java and Problem Solving  
-
+- 🧠 AI/ML
 ---
 
 ### 🧪 Featured Projects
